@@ -2,6 +2,6 @@
 
 int main() {
 	printf("Hello World!\n");
-	scanf("What")
+	scanf("What");
 	return 0;
 }
