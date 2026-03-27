@@ -1,7 +1,7 @@
 /*
- * Auth: Your Name
- * Date: MM-DD-YY (Due: MM-DD-YY)
- * Course: CSCI-2240 (Sec: YYY)
+ * Auth: Caleb Jackson
+ * Date: 03-26-26 
+ * Course: CSCI-2240 (Sec: 001)
  * Desc: PROG-05, Days to Weeks Program.
  */
 
